@@ -44,7 +44,7 @@ $$
 u_s=
 \begin{cases}
 0, & |\tau_w|\leq\tau_c,\\
-\dfrac{b}{\mu}\left(|\tau_w|-\tau_c\right)\operatorname{sgn}(\tau_w),
+\dfrac{b}{\mu}\left(|\tau_w|-\tau_c\right)\mathrm{sgn}(\tau_w),
 & |\tau_w|>\tau_c.
 \end{cases}
 $$
